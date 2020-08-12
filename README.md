@@ -12,6 +12,8 @@ wordcloud 분석으로 관심도 증가 보여주고
 
 WBO 선수 리스트
 
+검증할 가설 / 결론 : 승률을 예측하는 중요한 변수는 ___ 이다.
+
 ```
 
 # 데이터셋
@@ -19,8 +21,10 @@ WBO 선수 리스트
 - 방법 : 크롤링
 - 관련사이트
   https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx
+  https://www.koreabaseball.com/Record/History/Team/Record.aspx
 ```
-투수, 유격수
+독립변수 : 선수들 개인의 능력치 (타율, 타격능력 등)
+-> 종속변수 : 팀의 승률
 ```
 
 # 분석 방법
